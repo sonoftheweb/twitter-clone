@@ -232,3 +232,14 @@ a:hover {
     -moz-border-radius: 5px;
     border-radius: 5px;
 }
+
+footer{
+    border-top: 1px dotted #ccc;
+    padding-top: 20px;
+}
+
+footer .copyright{
+    font-size: 11px;
+    font-weight: bold;
+    float: left;
+}
